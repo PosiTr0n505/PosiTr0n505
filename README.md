@@ -35,7 +35,7 @@ Today, I’ve traded wave functions for web functions. I love the logic of progr
 ### ☁️ Infrastructure & Tools
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
+<!-- ---
 
 ## 📈 GitHub Stats
 <div align="center">
@@ -43,4 +43,4 @@ Today, I’ve traded wave functions for web functions. I love the logic of progr
 ![Ghassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Positr0n505&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Positr0n505&layout=compact&theme=dark)
 
-</div>
+</div> -->
